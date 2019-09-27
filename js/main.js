@@ -168,7 +168,7 @@
 
 
 
-//tab toggle in new_left sidebar
+//tab toggle in new_left sidebar finshede
 //---------------------------------------------------------------------
 (function () {
     var aList = document.querySelector(".sidebar").querySelectorAll("a");
